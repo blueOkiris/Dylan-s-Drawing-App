@@ -14,3 +14,4 @@ If not, then you need to change the shell script 'cd' command as well as draw.c 
 
 ## Pic
 
+![example image] (https://github.com/blueOkiris/Dylan-s-Drawing-App/blob/master/Drawing%20App/images/example.jpg)
